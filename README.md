@@ -1,4 +1,4 @@
-<h1>Hi, I'm Stephane , an <a href="www.linkedin.com/in/stephane-pressoir-52624b178">IT Professional</a>☺</h1>
+<h1>Hi, I'm Stephane , an <a href="https://www.linkedin.com/in/stephane-pressoir/">IT Professional</a>☺</h1>
 
 <h2> Information Technology Projects:</h2>
 
